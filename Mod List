@@ -1,0 +1,5 @@
+local admins = {
+  115151204, -- dev
+  1, -- test
+}
+return admins
